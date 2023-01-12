@@ -1,0 +1,100 @@
+.div{
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    margin-top: 15%;
+    padding: 10px;
+    padding-right: 35px;
+    padding-left: 42%;
+    padding-bottom: 80px;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-size: 30px;
+}
+
+form{
+    text-align: left;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+form>input{
+    display: block;
+    border-radius: 4px;
+    border: 1px solid deeppink;
+    margin-top: 2px;
+    padding-right: 55px;
+}
+
+#submitButton{
+    background-color: deeppink;
+    color: white;
+    margin-top: 15px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    float: left;
+}
+
+body{
+    background: url("../img/homeBG3.jpeg") no-repeat;
+    background-size: 200%;
+    background-position: 0px 0px;
+    
+    animation: test 10s infinite;
+}
+
+@keyframes test
+{
+  0%
+  {
+    background-position: -900px -800px;
+  }
+    
+  50%
+  {
+    background-position: -500px -800px;
+  }
+    
+  100%
+  {
+    background-position: -900px -800px;
+  }
+}
+
+a{
+    
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: white;
+    display: block;
+    margin-top: 7px;
+}
+
+.aLien{
+  margin-left: 46.5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
