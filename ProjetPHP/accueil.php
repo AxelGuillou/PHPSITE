@@ -50,7 +50,7 @@
             <form action="connexion.php" method="post">
             <br>IDENTIFIANT *<input type="text" name="login" value=""><br />
             MOT DE PASSE *<input type="password" name="mdp1" value=""><br />
-            <input type="submit" name="connexion" value="V" id="submitButton">
+            <input type="submit" name="connexion" value="connexion" id="submitButton">
             </form>
 </div>
 <div class="aLien">
